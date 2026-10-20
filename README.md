@@ -381,7 +381,7 @@ python pipeline.py --image "test_data/26-Kong/Fracture Image.jpg"      --output-
 If you use this code in a research paper, please cite both the original paper and this repository:
 
 **Paper** (fill in your details):
-> [AUTHORS]. "[PAPER TITLE]." [JOURNAL/CONFERENCE], [YEAR]. DOI: [YOUR DOI]
+> [AUTHORS]. "[PAPER TITLE]." [JOURNAL/CONFERENCE], [YEAR]. DOI: [DOI]
 
 **Repository**:
 > [AnastasiaNiu]. "[contourLineRestruction]." GitHub repository, [YEAR]. https://github.com/AnastasiaNiu/contourLineRestruction
